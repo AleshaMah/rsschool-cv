@@ -6,3 +6,7 @@
 - Telegram: AleshaMah
 ***
 ####Personal information
+
+***
+####Education
+Belarusian State University of Informatics and Radioelectronics, software engineer
